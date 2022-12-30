@@ -1,10 +1,9 @@
 pystyle
 socks
-urllib
 requests
 requests
 pycryptodome
 pywin32
 windows-curses
-hashlib
 asciivp
+PySocks
