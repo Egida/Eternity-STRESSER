@@ -7,3 +7,4 @@ pycryptodome
 pywin32
 windows-curses
 hashlib
+asciivp
