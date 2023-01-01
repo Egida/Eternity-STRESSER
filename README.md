@@ -44,11 +44,11 @@ python main.py
 
 <p align="center"><strong><i>Add layer4 [At 5 ✨]</i></strong</p>
 
-<p align="center"><strong><i>Bypass OVH/CloudFare [At 15 ✨]</i></strong</p>
-
 <p align="center"><strong><i>Add more methods (FiveM,Minecraft,and more) [At 30 ✨]</i></strong</p>
   
-
+<p align="center"><strong><i>Bypass OVH/CloudFare [At 15 ✨]</i></strong</p>
+  
+ 
 -----
 
   
