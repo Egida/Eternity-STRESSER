@@ -34,4 +34,15 @@ python main.py
 ![image](https://media.discordapp.net/attachments/1050051149455175750/1058318945532268595/image.png?width=960&height=382)
 
 
-## EDUCATIONAL PURPOSES ONLY
+
+-----
+
+### <p align="center">💡 Ideas 💡</p>
+
+<p align="center"><strong><i>Add layer4 [At 5 stars]</i></strong</p>
+
+<br><br>
+* ???
+<br><br>
+
+-----
