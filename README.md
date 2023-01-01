@@ -9,6 +9,7 @@
 - `Multiple targets`
 - `Very powerfull !`
 
+-----
 
 ## ❗  - Important:
 - Make sure to have [Python](https://www.python.org/downloads/) 3.10.0 before Downloading! 
@@ -18,6 +19,8 @@
 - Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
 
 ![image](https://user-images.githubusercontent.com/94531396/144043762-62686438-ddf5-40fb-a0a2-d2834daaa660.png)
+
+-----
 
 ## ❗  - Installation:
 #### 1st・Installation (Source Code)
@@ -39,10 +42,12 @@ python main.py
 
 ### <p align="center">💡 Ideas 💡</p>
 
-<p align="center"><strong><i>Add layer4 [At 5 stars]</i></strong</p>
+<p align="center"><strong><i>Add layer4 [At 5 ✨]</i></strong</p>
 
 <br><br>
 * ???
 <br><br>
 
 -----
+
+  
